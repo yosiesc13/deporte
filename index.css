@@ -1,0 +1,40 @@
+h2
+{
+background-color: rgb(209, 209, 200);}
+
+div
+{
+background-color: darkseagreen;
+}
+img
+{
+    width: 100%;
+    height: 100%;
+}
+p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+h2
+{
+    text-align: center;
+    font-family: fantasy;
+}
+h4
+{
+    text-align: center;
+}
+ol
+{
+    color: brown;
+}
+h5
+{
+    text-align: center;
+
+}
+h6
+{
+    text-align: center;
+}
